@@ -1,0 +1,4505 @@
+{
+	"manufacturers": [
+		{
+			"pk": 1,
+			"name": "ITC Limited",
+			"address": "ITC Limited, Foods Division, ICMF - Mysuru, Survey No. 77/3, Thandya Industrial Area, Immavu & Adakanahalli Villages, Chikkaiahanachatra Hobli, Nanjangud Taluk, Mysore (Karnataka), - 571302.",
+			"country_code": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 2,
+			"name": "Aachi Masala Foods",
+			"address": "Aachi masala foods (P) ltd , No 1926,34t street,I block,ishwarya colony,anna nagar west,chennai,600040",
+			"country_code": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 3,
+			"name": "AGRO SEVILLA ACEITUNAS",
+			"address": "Paseo Castell Madama, s/n, 41590 La Roda de Andaluc\u00eda, Sevilla, Spain",
+			"country_code": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 4,
+			"name": "Jubilant FoodWorks Ltd",
+			"address": "Cremica Food Industries Limited. Unit 1- Theing Road, Phillaur, Distt- Jalandar, Punjab-144410.",
+			"country_code": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 5,
+			"name": "AGRO SEVILLA ACEITUNAS",
+			"address": "Paseo Castell Madama, s/n, 41590 La Roda de Andaluc\u00eda, Sevilla, Spain",
+			"country_code": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 6,
+			"name": "ITC Limited",
+			"address": "ITC Limited, Foods Division, ICMF - Mysuru, Survey No. 77/3, Thandya Industrial Area, Immavu & Adakanahalli Villages, Chikkaiahanachatra Hobli, Nanjangud Taluk, Mysore (Karnataka), - 571302.",
+			"country_code": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 7,
+			"name": "Hersheys India Private Limited",
+			"address": "Plot no. 5 New Industrial Area No.1, Mandideep, Dist; Raisen-462046. MP",
+			"country_code": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 8,
+			"name": "Kaira District Co-operative Milk Producers' Union Limited",
+			"address": "Kaira District Co-operative Milk Producers' Union Limited, Anand 388 001. At Food Complex Mogar, Mogar",
+			"country_code": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 9,
+			"name": "Mars International India Private Limited",
+			"address": "Plot No. I-09/IIA, Khed City Industrial Area, At Post Nimgaon, Taluka- Khed, District. Pune - 410 505, Maharashtra, India",
+			"country_code": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 10,
+			"name": "Hersheys India Private Limited",
+			"address": "Makson Pharmaseuticals (I) Pvt. Ltd. (Food Devision), 195, Rajkot Highway, Surendranagar, Gujarat 363020.",
+			"country_code": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 11,
+			"name": "Kellogs India Private Limited",
+			"address": "Plot No. L2 & L3, Taloja MIDC, Dist. Rajgad, Maharashtra - 410208",
+			"country_code": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 12,
+			"name": "Sproutlife India Foods Private Ltd",
+			"address": "No.4426/115/2B, Ground Floor, K R Thimmaiah Estate, Doddabele Road, Near Good Earth Orchard Villas, Opp. KSRTC Bus Dipot. Mysore Road, Kengeri, Bengaluru, 560060",
+			"country_code": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 13,
+			"name": "Kellogs India Private Limited",
+			"address": "1001-1002, 10TH FLOOR, HIRANANDANI KNOWLEDGE PARK, HIRANANDANI BUSINESS PARK, POWAI",
+			"country_code": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 14,
+			"name": "Kellogs India Private Limited",
+			"address": "Plot No. L2 & L3, Taloja MIDC, Dist. Rajgad, Maharashtra - 410208",
+			"country_code": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 15,
+			"name": "Ameya Foods",
+			"address": "Unit-II, No. 344/1 Veidhiyer Thottam, Peedampalli, Coimbatore-641016",
+			"country_code": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 16,
+			"name": "HINDUSTAN COCA-COLA BEVERAGES PVT. LTD",
+			"address": "Brigade Magnum, Tower B, 7th-9th Floor, Amruthahalli, Kodigehalli Gate, Hebbal. Bengaluru, Karnataka 560092.",
+			"country_code": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 17,
+			"name": "Hector Beverages",
+			"address": "Finchley Castle, Outer Circle, Dodsworth Layout, Whitefield, Bengaluru, Karnataka 560066",
+			"country_code": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 18,
+			"name": "Dabur India Ltd",
+			"address": "Plot No-22, Site 4, Sahibabad, Sahibabad Industrial Area, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010",
+			"country_code": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 19,
+			"name": "Hector Beverages",
+			"address": "330, Finchley Castle, Outer Circle, Dodsworth Layout, Whitefield, Bengaluru, Karnataka 560066",
+			"country_code": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 20,
+			"name": "Hersheys India Private Limited",
+			"address": "Kaira District Co-operative Milk Producers' Union Limited, Anand 388 001. At Food Complex Mogar, Mogar. Lic. No. - 10014021001010.",
+			"country_code": 91,
+			"created_by": 2
+		}
+	],
+	"brands": [
+		{
+			"name": "Kitchens of India",
+			"pk": 1,
+			"manufacturer":1
+		},
+		{
+			"name": "Aachi",
+			"pk": 2,
+			"manufacturer":2
+		},
+		{
+			"name": "Del Monte",
+			"pk": 3,
+			"manufacturer":3
+		},
+		{
+			"name": "Chef Boss",
+			"pk": 4,
+			"manufacturer":4
+		},
+		{
+			"name": "Aashirvad",
+			"pk": 5,
+			"manufacturer":5
+		},
+		{
+			"name": "Hersheys",
+			"pk": 6,
+			"manufacturer":6
+		},
+		{
+			"name": "Amul",
+			"pk": 7,
+			"manufacturer":7
+		},
+		{
+			"name": "Snickers",
+			"pk": 8,
+			"manufacturer":8
+		},
+		{
+			"name": "Kellogs",
+			"pk": 9,
+			"manufacturer":9
+		},
+		{
+			"name": "Yoga bar",
+			"pk": 10,
+			"manufacturer":10
+		},
+		{
+			"name": "Saffola",
+			"pk": 11,
+			"manufacturer":11
+		},
+		{
+			"name": "Coca Cola",
+			"pk": 12,
+			"manufacturer":12
+		},
+		{
+			"name": "Paper Boat",
+			"pk": 13,
+			"manufacturer":13
+		},
+		{
+			"name": "Real Activ",
+			"pk": 14,
+			"manufacturer":13
+		}
+	],
+	"ingredients": [
+		{
+			"pk": 1,
+			"name": "322 ( i ) )",
+			"type": "322 ( i ) )"
+		},
+		{
+			"pk": 2,
+			"name": "acidity regulator",
+			"type": "acidity regulator"
+		},
+		{
+			"pk": 3,
+			"name": "acidity regulator ( 330 )",
+			"type": "acidity regulator ( 330 )"
+		},
+		{
+			"pk": 4,
+			"name": "acidity regulator ( 338 )",
+			"type": "acidity regulator ( 338 )"
+		},
+		{
+			"pk": 5,
+			"name": "acidity regulator ( citric acid )",
+			"type": "acidity regulator ( citric acid )"
+		},
+		{
+			"pk": 6,
+			"name": "acidity regulator - ins330 & ins260",
+			"type": "acidity regulator - ins330 & ins260"
+		},
+		{
+			"pk": 7,
+			"name": "active culture",
+			"type": "active culture"
+		},
+		{
+			"pk": 8,
+			"name": "almond bits",
+			"type": "almond bits"
+		},
+		{
+			"pk": 9,
+			"name": "almonds",
+			"type": "almonds"
+		},
+		{
+			"pk": 10,
+			"name": "amchur powder",
+			"type": "amchur powder"
+		},
+		{
+			"pk": 11,
+			"name": "anise",
+			"type": "anise"
+		},
+		{
+			"pk": 12,
+			"name": "antioxidant",
+			"type": "antioxidant"
+		},
+		{
+			"pk": 13,
+			"name": "antioxidant ( ascorbic acid )",
+			"type": "antioxidant ( ascorbic acid )"
+		},
+		{
+			"pk": 14,
+			"name": "antioxidant ( ins 320 )",
+			"type": "antioxidant ( ins 320 )"
+		},
+		{
+			"pk": 15,
+			"name": "antioxidants ( ins 320 & ins 307b )",
+			"type": "antioxidants ( ins 320 & ins 307b )"
+		},
+		{
+			"pk": 16,
+			"name": "apple juice conc",
+			"type": "apple juice conc"
+		},
+		{
+			"pk": 17,
+			"name": "apricot puree conc",
+			"type": "apricot puree conc"
+		},
+		{
+			"pk": 18,
+			"name": "artificial flavour ( vanillin )",
+			"type": "artificial flavour ( vanillin )"
+		},
+		{
+			"pk": 19,
+			"name": "artificial flavouring substances ( cocoa &vanilla )",
+			"type": "artificial flavouring substances ( cocoa &vanilla )"
+		},
+		{
+			"pk": 20,
+			"name": "banana puree",
+			"type": "banana puree"
+		},
+		{
+			"pk": 21,
+			"name": "basmati rice",
+			"type": "basmati rice"
+		},
+		{
+			"pk": 22,
+			"name": "bay leaf",
+			"type": "bay leaf"
+		},
+		{
+			"pk": 23,
+			"name": "belgian dark chocolate",
+			"type": "belgian dark chocolate"
+		},
+		{
+			"pk": 24,
+			"name": "besan",
+			"type": "besan"
+		},
+		{
+			"pk": 25,
+			"name": "brown rice flakes",
+			"type": "brown rice flakes"
+		},
+		{
+			"pk": 26,
+			"name": "butter",
+			"type": "butter"
+		},
+		{
+			"pk": 27,
+			"name": "caffeine",
+			"type": "caffeine"
+		},
+		{
+			"pk": 28,
+			"name": "candied & dry fruits",
+			"type": "candied & dry fruits"
+		},
+		{
+			"pk": 29,
+			"name": "candied cranberry",
+			"type": "candied cranberry"
+		},
+		{
+			"pk": 30,
+			"name": "candied papaya",
+			"type": "candied papaya"
+		},
+		{
+			"pk": 31,
+			"name": "carbonated water",
+			"type": "carbonated water"
+		},
+		{
+			"pk": 32,
+			"name": "cardamom",
+			"type": "cardamom"
+		},
+		{
+			"pk": 33,
+			"name": "carrot",
+			"type": "carrot"
+		},
+		{
+			"pk": 34,
+			"name": "cashew",
+			"type": "cashew"
+		},
+		{
+			"pk": 35,
+			"name": "cereal extract",
+			"type": "cereal extract"
+		},
+		{
+			"pk": 36,
+			"name": "chia & flax",
+			"type": "chia & flax"
+		},
+		{
+			"pk": 37,
+			"name": "chicken",
+			"type": "chicken"
+		},
+		{
+			"pk": 38,
+			"name": "chilli",
+			"type": "chilli"
+		},
+		{
+			"pk": 39,
+			"name": "cinnamon",
+			"type": "cinnamon"
+		},
+		{
+			"pk": 40,
+			"name": "cloves",
+			"type": "cloves"
+		},
+		{
+			"pk": 41,
+			"name": "cocoa",
+			"type": "cocoa"
+		},
+		{
+			"pk": 42,
+			"name": "cocoa butter",
+			"type": "cocoa butter"
+		},
+		{
+			"pk": 43,
+			"name": "cocoa powder",
+			"type": "cocoa powder"
+		},
+		{
+			"pk": 44,
+			"name": "cocoa solids",
+			"type": "cocoa solids"
+		},
+		{
+			"pk": 45,
+			"name": "coconut water",
+			"type": "coconut water"
+		},
+		{
+			"pk": 46,
+			"name": "color retention agent ( ins 579 )",
+			"type": "color retention agent ( ins 579 )"
+		},
+		{
+			"pk": 47,
+			"name": "colour ( 150d )",
+			"type": "colour ( 150d )"
+		},
+		{
+			"pk": 48,
+			"name": "colour ( ins 150d )",
+			"type": "colour ( ins 150d )"
+		},
+		{
+			"pk": 49,
+			"name": "compunded asafoetida ( stabilizer ( ins 414 ) )",
+			"type": "compunded asafoetida ( stabilizer ( ins 414 ) )"
+		},
+		{
+			"pk": 50,
+			"name": "contains added flavours ( natural and nature - identical flavouring substances )",
+			"type": "contains added flavours ( natural and nature - identical flavouring substances )"
+		},
+		{
+			"pk": 51,
+			"name": "corainder leaves",
+			"type": "corainder leaves"
+		},
+		{
+			"pk": 52,
+			"name": "coriander",
+			"type": "coriander"
+		},
+		{
+			"pk": 53,
+			"name": "coriander leaves",
+			"type": "coriander leaves"
+		},
+		{
+			"pk": 54,
+			"name": "corn grits",
+			"type": "corn grits"
+		},
+		{
+			"pk": 55,
+			"name": "corn starch",
+			"type": "corn starch"
+		},
+		{
+			"pk": 56,
+			"name": "cumin",
+			"type": "cumin"
+		},
+		{
+			"pk": 57,
+			"name": "curry leaves",
+			"type": "curry leaves"
+		},
+		{
+			"pk": 58,
+			"name": "date syrup",
+			"type": "date syrup"
+		},
+		{
+			"pk": 59,
+			"name": "dehydrated carrot",
+			"type": "dehydrated carrot"
+		},
+		{
+			"pk": 60,
+			"name": "dehydrated onion",
+			"type": "dehydrated onion"
+		},
+		{
+			"pk": 61,
+			"name": "dehydrated potato",
+			"type": "dehydrated potato"
+		},
+		{
+			"pk": 62,
+			"name": "dried cranberries",
+			"type": "dried cranberries"
+		},
+		{
+			"pk": 63,
+			"name": "dried fruits",
+			"type": "dried fruits"
+		},
+		{
+			"pk": 64,
+			"name": "dried vegetables",
+			"type": "dried vegetables"
+		},
+		{
+			"pk": 65,
+			"name": "dry fenugreek leaves powder",
+			"type": "dry fenugreek leaves powder"
+		},
+		{
+			"pk": 66,
+			"name": "edible common salt",
+			"type": "edible common salt"
+		},
+		{
+			"pk": 67,
+			"name": "edible vegetable oil",
+			"type": "edible vegetable oil"
+		},
+		{
+			"pk": 68,
+			"name": "edible vegetable oil ( palmolein )",
+			"type": "edible vegetable oil ( palmolein )"
+		},
+		{
+			"pk": 69,
+			"name": "edible vegetable oil ( refined soyabean oil )",
+			"type": "edible vegetable oil ( refined soyabean oil )"
+		},
+		{
+			"pk": 70,
+			"name": "emulsifier ( soya lecithin e322 )",
+			"type": "emulsifier ( soya lecithin e322 )"
+		},
+		{
+			"pk": 71,
+			"name": "emulsifiers ( 322 & 476 )",
+			"type": "emulsifiers ( 322 & 476 )"
+		},
+		{
+			"pk": 72,
+			"name": "emulsifiers ( 476",
+			"type": "emulsifiers ( 476"
+		},
+		{
+			"pk": 73,
+			"name": "fennel",
+			"type": "fennel"
+		},
+		{
+			"pk": 74,
+			"name": "fenugreek",
+			"type": "fenugreek"
+		},
+		{
+			"pk": 75,
+			"name": "flavour ( artificial ( coconut ) )",
+			"type": "flavour ( artificial ( coconut ) )"
+		},
+		{
+			"pk": 76,
+			"name": "flavour enhancer ( ins 627 &ins 631 )",
+			"type": "flavour enhancer ( ins 627 &ins 631 )"
+		},
+		{
+			"pk": 77,
+			"name": "flavour enhancers ( ins 627 &ins 631 )",
+			"type": "flavour enhancers ( ins 627 &ins 631 )"
+		},
+		{
+			"pk": 78,
+			"name": "flavours",
+			"type": "flavours"
+		},
+		{
+			"pk": 79,
+			"name": "flavours ( natural flavoring substances )",
+			"type": "flavours ( natural flavoring substances )"
+		},
+		{
+			"pk": 80,
+			"name": "full cream milk powder",
+			"type": "full cream milk powder"
+		},
+		{
+			"pk": 81,
+			"name": "garlic",
+			"type": "garlic"
+		},
+		{
+			"pk": 82,
+			"name": "garlic paste",
+			"type": "garlic paste"
+		},
+		{
+			"pk": 83,
+			"name": "ghee",
+			"type": "ghee"
+		},
+		{
+			"pk": 84,
+			"name": "ginger",
+			"type": "ginger"
+		},
+		{
+			"pk": 85,
+			"name": "ginger paste",
+			"type": "ginger paste"
+		},
+		{
+			"pk": 86,
+			"name": "glucose syrup",
+			"type": "glucose syrup"
+		},
+		{
+			"pk": 87,
+			"name": "grape juice conc",
+			"type": "grape juice conc"
+		},
+		{
+			"pk": 88,
+			"name": "green chilli",
+			"type": "green chilli"
+		},
+		{
+			"pk": 89,
+			"name": "green peas",
+			"type": "green peas"
+		},
+		{
+			"pk": 90,
+			"name": "guava puree",
+			"type": "guava puree"
+		},
+		{
+			"pk": 91,
+			"name": "guava puree sugar",
+			"type": "guava puree sugar"
+		},
+		{
+			"pk": 92,
+			"name": "himalayan pink salt",
+			"type": "himalayan pink salt"
+		},
+		{
+			"pk": 93,
+			"name": "hydrolysed vegetable protein",
+			"type": "hydrolysed vegetable protein"
+		},
+		{
+			"pk": 94,
+			"name": "in brine ( when packed )",
+			"type": "in brine ( when packed )"
+		},
+		{
+			"pk": 95,
+			"name": "ins 160a ( iii )",
+			"type": "ins 160a ( iii )"
+		},
+		{
+			"pk": 96,
+			"name": "ins 300",
+			"type": "ins 300"
+		},
+		{
+			"pk": 97,
+			"name": "ins 330",
+			"type": "ins 330"
+		},
+		{
+			"pk": 98,
+			"name": "ins 440",
+			"type": "ins 440"
+		},
+		{
+			"pk": 99,
+			"name": "invert sugar",
+			"type": "invert sugar"
+		},
+		{
+			"pk": 100,
+			"name": "iodised salt",
+			"type": "iodised salt"
+		},
+		{
+			"pk": 101,
+			"name": "iodized salt",
+			"type": "iodized salt"
+		},
+		{
+			"pk": 102,
+			"name": "jaggery",
+			"type": "jaggery"
+		},
+		{
+			"pk": 103,
+			"name": "khoya",
+			"type": "khoya"
+		},
+		{
+			"pk": 104,
+			"name": "lactose",
+			"type": "lactose"
+		},
+		{
+			"pk": 105,
+			"name": "lal mirchi powder",
+			"type": "lal mirchi powder"
+		},
+		{
+			"pk": 106,
+			"name": "lemon juice concentrate",
+			"type": "lemon juice concentrate"
+		},
+		{
+			"pk": 107,
+			"name": "lime juice conc",
+			"type": "lime juice conc"
+		},
+		{
+			"pk": 108,
+			"name": "liquid glucose",
+			"type": "liquid glucose"
+		},
+		{
+			"pk": 109,
+			"name": "lodised salt",
+			"type": "lodised salt"
+		},
+		{
+			"pk": 110,
+			"name": "lodized salt",
+			"type": "lodized salt"
+		},
+		{
+			"pk": 111,
+			"name": "lodized salt and raising agent ( ins 500 ( ii ) )",
+			"type": "lodized salt and raising agent ( ins 500 ( ii ) )"
+		},
+		{
+			"pk": 112,
+			"name": "maltodextrin",
+			"type": "maltodextrin"
+		},
+		{
+			"pk": 113,
+			"name": "mango pulp",
+			"type": "mango pulp"
+		},
+		{
+			"pk": 114,
+			"name": "mango pulp conc",
+			"type": "mango pulp conc"
+		},
+		{
+			"pk": 115,
+			"name": "mass",
+			"type": "mass"
+		},
+		{
+			"pk": 116,
+			"name": "milk cream",
+			"type": "milk cream"
+		},
+		{
+			"pk": 117,
+			"name": "milk fat",
+			"type": "milk fat"
+		},
+		{
+			"pk": 118,
+			"name": "milk solids",
+			"type": "milk solids"
+		},
+		{
+			"pk": 119,
+			"name": "minerals",
+			"type": "minerals"
+		},
+		{
+			"pk": 120,
+			"name": "minerals and antioxidant ( ins 320 )",
+			"type": "minerals and antioxidant ( ins 320 )"
+		},
+		{
+			"pk": 121,
+			"name": "mint leaves",
+			"type": "mint leaves"
+		},
+		{
+			"pk": 122,
+			"name": "mixed fruit juice conc",
+			"type": "mixed fruit juice conc"
+		},
+		{
+			"pk": 123,
+			"name": "multigrain  ( wheat",
+			"type": "multigrain  ( wheat"
+		},
+		{
+			"pk": 124,
+			"name": "mustard",
+			"type": "mustard"
+		},
+		{
+			"pk": 125,
+			"name": "natural colour",
+			"type": "natural colour"
+		},
+		{
+			"pk": 126,
+			"name": "natural flavouring substances",
+			"type": "natural flavouring substances"
+		},
+		{
+			"pk": 127,
+			"name": "nature identical and artificial flavouring substances ( rose )",
+			"type": "nature identical and artificial flavouring substances ( rose )"
+		},
+		{
+			"pk": 128,
+			"name": "nature- identical flavouring substances",
+			"type": "nature- identical flavouring substances"
+		},
+		{
+			"pk": 129,
+			"name": "nut & seed",
+			"type": "nut & seed"
+		},
+		{
+			"pk": 130,
+			"name": "olives",
+			"type": "olives"
+		},
+		{
+			"pk": 131,
+			"name": "onion",
+			"type": "onion"
+		},
+		{
+			"pk": 132,
+			"name": "onion crush",
+			"type": "onion crush"
+		},
+		{
+			"pk": 133,
+			"name": "onion powder",
+			"type": "onion powder"
+		},
+		{
+			"pk": 134,
+			"name": "onions",
+			"type": "onions"
+		},
+		{
+			"pk": 135,
+			"name": "orange juice conc",
+			"type": "orange juice conc"
+		},
+		{
+			"pk": 136,
+			"name": "passion fruit juice conc",
+			"type": "passion fruit juice conc"
+		},
+		{
+			"pk": 137,
+			"name": "peanuts",
+			"type": "peanuts"
+		},
+		{
+			"pk": 138,
+			"name": "pear juice conc",
+			"type": "pear juice conc"
+		},
+		{
+			"pk": 139,
+			"name": "pepper black powder )",
+			"type": "pepper black powder )"
+		},
+		{
+			"pk": 140,
+			"name": "pineapple juice conc",
+			"type": "pineapple juice conc"
+		},
+		{
+			"pk": 141,
+			"name": "preservative ( 211 )",
+			"type": "preservative ( 211 )"
+		},
+		{
+			"pk": 142,
+			"name": "pumpkin",
+			"type": "pumpkin"
+		},
+		{
+			"pk": 143,
+			"name": "pumpkin seeds",
+			"type": "pumpkin seeds"
+		},
+		{
+			"pk": 144,
+			"name": "quinoa",
+			"type": "quinoa"
+		},
+		{
+			"pk": 145,
+			"name": "raisins",
+			"type": "raisins"
+		},
+		{
+			"pk": 146,
+			"name": "red chilli",
+			"type": "red chilli"
+		},
+		{
+			"pk": 147,
+			"name": "red chilli powder",
+			"type": "red chilli powder"
+		},
+		{
+			"pk": 148,
+			"name": "refined palm oil",
+			"type": "refined palm oil"
+		},
+		{
+			"pk": 149,
+			"name": "refined sugar",
+			"type": "refined sugar"
+		},
+		{
+			"pk": 150,
+			"name": "refined sunflower oil",
+			"type": "refined sunflower oil"
+		},
+		{
+			"pk": 151,
+			"name": "refined wheat flour ( maida )  }",
+			"type": "refined wheat flour ( maida )  }"
+		},
+		{
+			"pk": 152,
+			"name": "resistant dextrin ( dietary fiber )",
+			"type": "resistant dextrin ( dietary fiber )"
+		},
+		{
+			"pk": 153,
+			"name": "rice",
+			"type": "rice"
+		},
+		{
+			"pk": 154,
+			"name": "rice bran oil",
+			"type": "rice bran oil"
+		},
+		{
+			"pk": 155,
+			"name": "rice flakes",
+			"type": "rice flakes"
+		},
+		{
+			"pk": 156,
+			"name": "rolled barley",
+			"type": "rolled barley"
+		},
+		{
+			"pk": 157,
+			"name": "rolled oats",
+			"type": "rolled oats"
+		},
+		{
+			"pk": 158,
+			"name": "seeds",
+			"type": "seeds"
+		},
+		{
+			"pk": 159,
+			"name": "skimmed milk powder",
+			"type": "skimmed milk powder"
+		},
+		{
+			"pk": 160,
+			"name": "soy lecithin",
+			"type": "soy lecithin"
+		},
+		{
+			"pk": 161,
+			"name": "soy protein flakes",
+			"type": "soy protein flakes"
+		},
+		{
+			"pk": 162,
+			"name": "soy protein isolate",
+			"type": "soy protein isolate"
+		},
+		{
+			"pk": 163,
+			"name": "spice & condiment",
+			"type": "spice & condiment"
+		},
+		{
+			"pk": 164,
+			"name": "spices and condiments",
+			"type": "spices and condiments"
+		},
+		{
+			"pk": 165,
+			"name": "stabilizer",
+			"type": "stabilizer"
+		},
+		{
+			"pk": 166,
+			"name": "stabilizer ( 440 )",
+			"type": "stabilizer ( 440 )"
+		},
+		{
+			"pk": 167,
+			"name": "stabilizer ( ins 415 )",
+			"type": "stabilizer ( ins 415 )"
+		},
+		{
+			"pk": 168,
+			"name": "stabilizers ( carboxy methyl cellulose & guar gum and pectin )",
+			"type": "stabilizers ( carboxy methyl cellulose & guar gum and pectin )"
+		},
+		{
+			"pk": 169,
+			"name": "star",
+			"type": "star"
+		},
+		{
+			"pk": 170,
+			"name": "starch",
+			"type": "starch"
+		},
+		{
+			"pk": 171,
+			"name": "sugar",
+			"type": "sugar"
+		},
+		{
+			"pk": 172,
+			"name": "sugar and preservative ( nisin )",
+			"type": "sugar and preservative ( nisin )"
+		},
+		{
+			"pk": 173,
+			"name": "tamarind concentrate",
+			"type": "tamarind concentrate"
+		},
+		{
+			"pk": 174,
+			"name": "tamarind puree",
+			"type": "tamarind puree"
+		},
+		{
+			"pk": 175,
+			"name": "thickener (ins 1422 )",
+			"type": "thickener (ins 1422 )"
+		},
+		{
+			"pk": 176,
+			"name": "thickening agent ( 415 )",
+			"type": "thickening agent ( 415 )"
+		},
+		{
+			"pk": 177,
+			"name": "tomato",
+			"type": "tomato"
+		},
+		{
+			"pk": 178,
+			"name": "tomatoes",
+			"type": "tomatoes"
+		},
+		{
+			"pk": 179,
+			"name": "toor dal",
+			"type": "toor dal"
+		},
+		{
+			"pk": 180,
+			"name": "turmeric",
+			"type": "turmeric"
+		},
+		{
+			"pk": 181,
+			"name": "urad dal",
+			"type": "urad dal"
+		},
+		{
+			"pk": 182,
+			"name": "vegetable fat ( palm fat )",
+			"type": "vegetable fat ( palm fat )"
+		},
+		{
+			"pk": 183,
+			"name": "vitamins",
+			"type": "vitamins"
+		},
+		{
+			"pk": 184,
+			"name": "water",
+			"type": "water"
+		},
+		{
+			"pk": 185,
+			"name": "water garlic",
+			"type": "water garlic"
+		},
+		{
+			"pk": 186,
+			"name": "water sugar",
+			"type": "water sugar"
+		},
+		{
+			"pk": 187,
+			"name": "wheat bran",
+			"type": "wheat bran"
+		},
+		{
+			"pk": 188,
+			"name": "wheat fibre",
+			"type": "wheat fibre"
+		},
+		{
+			"pk": 189,
+			"name": "wheat solids  { wheat flour ( atta )",
+			"type": "wheat solids  { wheat flour ( atta )"
+		},
+		{
+			"pk": 190,
+			"name": "whey powder",
+			"type": "whey powder"
+		},
+		{
+			"pk": 191,
+			"name": "whole grains",
+			"type": "whole grains"
+		},
+		{
+			"pk": 192,
+			"name": "yeast extract powder",
+			"type": "yeast extract powder"
+		},
+		{
+			"pk": 193,
+			"name": "yoghurt",
+			"type": "yoghurt"
+		}
+	],
+	"product_ingredients": [
+		{
+			"product": 1,
+			"ingredient": 178,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 1,
+			"ingredient": 37,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 1,
+			"ingredient": 116,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 1,
+			"ingredient": 185,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 1,
+			"ingredient": 26,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 1,
+			"ingredient": 163,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 1,
+			"ingredient": 150,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 1,
+			"ingredient": 103,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 1,
+			"ingredient": 34,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 1,
+			"ingredient": 101,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 1,
+			"ingredient": 149,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 1,
+			"ingredient": 65,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 2,
+			"ingredient": 21,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 2,
+			"ingredient": 131,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 2,
+			"ingredient": 67,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 2,
+			"ingredient": 150,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 2,
+			"ingredient": 177,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 2,
+			"ingredient": 147,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 2,
+			"ingredient": 66,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 2,
+			"ingredient": 81,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 2,
+			"ingredient": 84,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 2,
+			"ingredient": 88,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 2,
+			"ingredient": 121,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 2,
+			"ingredient": 53,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 2,
+			"ingredient": 73,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 2,
+			"ingredient": 40,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 2,
+			"ingredient": 39,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 2,
+			"ingredient": 22,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 2,
+			"ingredient": 169,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 2,
+			"ingredient": 11,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 2,
+			"ingredient": 32,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 2,
+			"ingredient": 6,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 3,
+			"ingredient": 130,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 3,
+			"ingredient": 184,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 3,
+			"ingredient": 110,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 3,
+			"ingredient": 46,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 3,
+			"ingredient": 94,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 4,
+			"ingredient": 132,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 4,
+			"ingredient": 184,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 4,
+			"ingredient": 193,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 4,
+			"ingredient": 110,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 4,
+			"ingredient": 69,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 4,
+			"ingredient": 82,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 4,
+			"ingredient": 85,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 4,
+			"ingredient": 174,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 4,
+			"ingredient": 164,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 4,
+			"ingredient": 175,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 4,
+			"ingredient": 106,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 4,
+			"ingredient": 171,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 4,
+			"ingredient": 55,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 4,
+			"ingredient": 133,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 4,
+			"ingredient": 192,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 4,
+			"ingredient": 77,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 5,
+			"ingredient": 130,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 5,
+			"ingredient": 184,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 5,
+			"ingredient": 110,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 5,
+			"ingredient": 46,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 6,
+			"ingredient": 184,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 6,
+			"ingredient": 153,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 6,
+			"ingredient": 155,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 6,
+			"ingredient": 181,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 6,
+			"ingredient": 111,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 6,
+			"ingredient": 179,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 6,
+			"ingredient": 171,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 6,
+			"ingredient": 153,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 6,
+			"ingredient": 110,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 6,
+			"ingredient": 148,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 6,
+			"ingredient": 24,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 6,
+			"ingredient": 83,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 6,
+			"ingredient": 170,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 6,
+			"ingredient": 60,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 6,
+			"ingredient": 173,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 6,
+			"ingredient": 164,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 6,
+			"ingredient": 61,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 6,
+			"ingredient": 57,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 6,
+			"ingredient": 51,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 6,
+			"ingredient": 59,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 6,
+			"ingredient": 146,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 6,
+			"ingredient": 124,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 6,
+			"ingredient": 49,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 6,
+			"ingredient": 167,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 7,
+			"ingredient": 99,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 7,
+			"ingredient": 186,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 7,
+			"ingredient": 108,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 7,
+			"ingredient": 3,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 7,
+			"ingredient": 176,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 7,
+			"ingredient": 141,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 8,
+			"ingredient": 44,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 8,
+			"ingredient": 171,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 8,
+			"ingredient": 42,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 8,
+			"ingredient": 71,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 8,
+			"ingredient": 19,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 9,
+			"ingredient": 171,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 9,
+			"ingredient": 42,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 9,
+			"ingredient": 41,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 9,
+			"ingredient": 115,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 9,
+			"ingredient": 104,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 9,
+			"ingredient": 80,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 9,
+			"ingredient": 190,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 9,
+			"ingredient": 117,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 9,
+			"ingredient": 70,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 9,
+			"ingredient": 184,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 9,
+			"ingredient": 18,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 9,
+			"ingredient": 137,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 9,
+			"ingredient": 86,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 9,
+			"ingredient": 171,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 9,
+			"ingredient": 182,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 9,
+			"ingredient": 159,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 10,
+			"ingredient": 171,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 10,
+			"ingredient": 118,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 10,
+			"ingredient": 42,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 10,
+			"ingredient": 44,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 10,
+			"ingredient": 8,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 10,
+			"ingredient": 72,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 10,
+			"ingredient": 1,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 11,
+			"ingredient": 123,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 11,
+			"ingredient": 54,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 11,
+			"ingredient": 153,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 11,
+			"ingredient": 156,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 11,
+			"ingredient": 157,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 11,
+			"ingredient": 28,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 11,
+			"ingredient": 129,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 11,
+			"ingredient": 30,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 11,
+			"ingredient": 29,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 11,
+			"ingredient": 145,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 11,
+			"ingredient": 9,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 11,
+			"ingredient": 143,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 11,
+			"ingredient": 171,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 11,
+			"ingredient": 35,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 11,
+			"ingredient": 187,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 11,
+			"ingredient": 101,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 11,
+			"ingredient": 162,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 11,
+			"ingredient": 183,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 11,
+			"ingredient": 75,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 11,
+			"ingredient": 119,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 11,
+			"ingredient": 15,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 12,
+			"ingredient": 191,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 12,
+			"ingredient": 157,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 12,
+			"ingredient": 25,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 12,
+			"ingredient": 158,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 12,
+			"ingredient": 144,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 12,
+			"ingredient": 142,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 12,
+			"ingredient": 36,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 12,
+			"ingredient": 63,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 12,
+			"ingredient": 145,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 12,
+			"ingredient": 62,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 12,
+			"ingredient": 23,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 12,
+			"ingredient": 41,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 12,
+			"ingredient": 42,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 12,
+			"ingredient": 171,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 12,
+			"ingredient": 160,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 12,
+			"ingredient": 58,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 12,
+			"ingredient": 9,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 12,
+			"ingredient": 161,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 12,
+			"ingredient": 102,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 12,
+			"ingredient": 154,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 12,
+			"ingredient": 43,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 12,
+			"ingredient": 92,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 13,
+			"ingredient": 54,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 13,
+			"ingredient": 171,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 13,
+			"ingredient": 35,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 13,
+			"ingredient": 110,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 13,
+			"ingredient": 183,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 13,
+			"ingredient": 120,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 14,
+			"ingredient": 189,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 14,
+			"ingredient": 151,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 14,
+			"ingredient": 171,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 14,
+			"ingredient": 44,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 14,
+			"ingredient": 119,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 14,
+			"ingredient": 68,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 14,
+			"ingredient": 35,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 14,
+			"ingredient": 110,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 14,
+			"ingredient": 48,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 14,
+			"ingredient": 183,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 14,
+			"ingredient": 14,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 15,
+			"ingredient": 157,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 15,
+			"ingredient": 112,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 15,
+			"ingredient": 109,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 15,
+			"ingredient": 164,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 15,
+			"ingredient": 131,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 15,
+			"ingredient": 73,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 15,
+			"ingredient": 81,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 15,
+			"ingredient": 56,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 15,
+			"ingredient": 38,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 15,
+			"ingredient": 180,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 15,
+			"ingredient": 74,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 15,
+			"ingredient": 64,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 15,
+			"ingredient": 33,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 15,
+			"ingredient": 134,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 15,
+			"ingredient": 89,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 15,
+			"ingredient": 52,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 15,
+			"ingredient": 171,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 15,
+			"ingredient": 170,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 15,
+			"ingredient": 93,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 15,
+			"ingredient": 126,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 15,
+			"ingredient": 188,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 15,
+			"ingredient": 128,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 15,
+			"ingredient": 76,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 16,
+			"ingredient": 31,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 16,
+			"ingredient": 171,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 16,
+			"ingredient": 4,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 16,
+			"ingredient": 27,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 16,
+			"ingredient": 47,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 16,
+			"ingredient": 79,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 17,
+			"ingredient": 184,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 17,
+			"ingredient": 91,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 17,
+			"ingredient": 100,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 17,
+			"ingredient": 164,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 17,
+			"ingredient": 10,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 17,
+			"ingredient": 105,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 17,
+			"ingredient": 139,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 17,
+			"ingredient": 106,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 17,
+			"ingredient": 5,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 17,
+			"ingredient": 168,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 17,
+			"ingredient": 13,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 17,
+			"ingredient": 50,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 18,
+			"ingredient": 184,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 18,
+			"ingredient": 122,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 18,
+			"ingredient": 140,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 18,
+			"ingredient": 16,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 18,
+			"ingredient": 87,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 18,
+			"ingredient": 138,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 18,
+			"ingredient": 135,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 18,
+			"ingredient": 90,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 18,
+			"ingredient": 17,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 18,
+			"ingredient": 114,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 18,
+			"ingredient": 20,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 18,
+			"ingredient": 136,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 18,
+			"ingredient": 107,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 18,
+			"ingredient": 20,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 18,
+			"ingredient": 113,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 18,
+			"ingredient": 152,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 18,
+			"ingredient": 165,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 18,
+			"ingredient": 98,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 18,
+			"ingredient": 2,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 18,
+			"ingredient": 97,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 18,
+			"ingredient": 12,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 18,
+			"ingredient": 96,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 18,
+			"ingredient": 125,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 18,
+			"ingredient": 95,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 18,
+			"ingredient": 78,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 19,
+			"ingredient": 45,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 19,
+			"ingredient": 172,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 20,
+			"ingredient": 118,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 20,
+			"ingredient": 184,
+			"unit_of_measure": 1,
+			"measure_fact": 100
+		},
+		{
+			"product": 20,
+			"ingredient": 171,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 20,
+			"ingredient": 166,
+			"unit_of_measure": 1,
+			"measure_fact": 5
+		},
+		{
+			"product": 20,
+			"ingredient": 127,
+			"unit_of_measure": 1,
+			"measure_fact": 50
+		},
+		{
+			"product": 20,
+			"ingredient": 7,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		}
+	],
+	"nutrients": [
+		{
+			"pk": 1,
+			"name": "energy",
+			"type": "energy"
+		},
+		{
+			"pk": 2,
+			"name": "protein",
+			"type": "protein"
+		},
+		{
+			"pk": 3,
+			"name": "carbohydrates",
+			"type": "carbohydrates"
+		},
+		{
+			"pk": 4,
+			"name": "total sugars",
+			"type": "sugar"
+		},
+		{
+			"pk": 5,
+			"name": "fat",
+			"type": "fat"
+		},
+		{
+			"pk": 6,
+			"name": "trans fat",
+			"type": "fat"
+		},
+		{
+			"pk": 7,
+			"name": "saturated fatty acid",
+			"type": "fat"
+		},
+		{
+			"pk": 8,
+			"name": "mono unsaturated fatty acid",
+			"type": "fat"
+		},
+		{
+			"pk": 9,
+			"name": "dietary fiber",
+			"type": "fiber"
+		},
+		{
+			"pk": 10,
+			"name": "iron",
+			"type": "iron"
+		},
+		{
+			"pk": 11,
+			"name": "poly unsaturated fatty acid",
+			"type": "fat"
+		},
+		{
+			"pk": 12,
+			"name": "sodium",
+			"type": "sodium"
+		},
+		{
+			"pk": 13,
+			"name": "cholesterol",
+			"type": "cholesterol"
+		},
+		{
+			"pk": 14,
+			"name": "added sugars",
+			"type": "sugar"
+		},
+		{
+			"pk": 15,
+			"name": "energy from fat",
+			"type": "fat"
+		},
+		{
+			"pk": 16,
+			"name": "vitamin c",
+			"type": "vitamin"
+		},
+		{
+			"pk": 17,
+			"name": "vitamin b1",
+			"type": "vitamin"
+		},
+		{
+			"pk": 18,
+			"name": "vitamin b2",
+			"type": "vitamin"
+		},
+		{
+			"pk": 19,
+			"name": "niacin",
+			"type": "vitamin"
+		},
+		{
+			"pk": 20,
+			"name": "vitamin b6",
+			"type": "vitamin"
+		},
+		{
+			"pk": 21,
+			"name": "vitamin b12",
+			"type": "vitamin"
+		},
+		{
+			"pk": 22,
+			"name": "folate",
+			"type": "vitamin"
+		},
+		{
+			"pk": 23,
+			"name": "omega 3 (alpha linoleic acid)",
+			"type": "omega 3 (alpha linoleic acid)"
+		},
+		{
+			"pk": 24,
+			"name": "vitamin a",
+			"type": "vitamin"
+		},
+		{
+			"pk": 25,
+			"name": "calcium",
+			"type": "calcium"
+		},
+		{
+			"pk": 26,
+			"name": "zinc",
+			"type": "zinc"
+		},
+		{
+			"pk": 27,
+			"name": "soluble dietary fiber",
+			"type": "fiber"
+		},
+		{
+			"pk": 28,
+			"name": "insoluble dietary fiber",
+			"type": "fiber"
+		},
+		{
+			"pk": 29,
+			"name": "potassium",
+			"type": "potassium"
+		}
+	],
+	"product_nutrients": [
+		{
+			"product": 1,
+			"nutrient": 1,
+			"unit_of_measure": 0,
+			"measure_fact": 155
+		},
+		{
+			"product": 1,
+			"nutrient": 2,
+			"unit_of_measure": 1,
+			"measure_fact": 8.8
+		},
+		{
+			"product": 1,
+			"nutrient": 3,
+			"unit_of_measure": 1,
+			"measure_fact": 5.9
+		},
+		{
+			"product": 1,
+			"nutrient": 4,
+			"unit_of_measure": 1,
+			"measure_fact": 0.5
+		},
+		{
+			"product": 1,
+			"nutrient": 5,
+			"unit_of_measure": 1,
+			"measure_fact": 10.7
+		},
+		{
+			"product": 1,
+			"nutrient": 6,
+			"unit_of_measure": 1,
+			"measure_fact": 0.02
+		},
+		{
+			"product": 1,
+			"nutrient": 7,
+			"unit_of_measure": 1,
+			"measure_fact": 6.2
+		},
+		{
+			"product": 2,
+			"nutrient": 1,
+			"unit_of_measure": 0,
+			"measure_fact": 340.0
+		},
+		{
+			"product": 2,
+			"nutrient": 3,
+			"unit_of_measure": 1,
+			"measure_fact": 58.0
+		},
+		{
+			"product": 2,
+			"nutrient": 2,
+			"unit_of_measure": 1,
+			"measure_fact": 4.5
+		},
+		{
+			"product": 2,
+			"nutrient": 5,
+			"unit_of_measure": 1,
+			"measure_fact": 10.0
+		},
+		{
+			"product": 2,
+			"nutrient": 7,
+			"unit_of_measure": 1,
+			"measure_fact": 1.3
+		},
+		{
+			"product": 2,
+			"nutrient": 6,
+			"unit_of_measure": 1,
+			"measure_fact": 0.1
+		},
+		{
+			"product": 3,
+			"nutrient": 4,
+			"unit_of_measure": 1,
+			"measure_fact": 0
+		},
+		{
+			"product": 3,
+			"nutrient": 2,
+			"unit_of_measure": 1,
+			"measure_fact": 0.5
+		},
+		{
+			"product": 3,
+			"nutrient": 1,
+			"unit_of_measure": 0,
+			"measure_fact": 145
+		},
+		{
+			"product": 3,
+			"nutrient": 6,
+			"unit_of_measure": 1,
+			"measure_fact": 0.1
+		},
+		{
+			"product": 3,
+			"nutrient": 8,
+			"unit_of_measure": 1,
+			"measure_fact": 9.3
+		},
+		{
+			"product": 3,
+			"nutrient": 9,
+			"unit_of_measure": 1,
+			"measure_fact": 3.0
+		},
+		{
+			"product": 3,
+			"nutrient": 7,
+			"unit_of_measure": 1,
+			"measure_fact": 2.3
+		},
+		{
+			"product": 3,
+			"nutrient": 5,
+			"unit_of_measure": 1,
+			"measure_fact": 14.6
+		},
+		{
+			"product": 3,
+			"nutrient": 10,
+			"unit_of_measure": 2,
+			"measure_fact": 8.1
+		},
+		{
+			"product": 3,
+			"nutrient": 3,
+			"unit_of_measure": 1,
+			"measure_fact": 3.0
+		},
+		{
+			"product": 3,
+			"nutrient": 11,
+			"unit_of_measure": 1,
+			"measure_fact": 0.8
+		},
+		{
+			"product": 3,
+			"nutrient": 12,
+			"unit_of_measure": 2,
+			"measure_fact": 0.7
+		},
+		{
+			"product": 4,
+			"nutrient": 1,
+			"unit_of_measure": 0,
+			"measure_fact": 125.4
+		},
+		{
+			"product": 4,
+			"nutrient": 2,
+			"unit_of_measure": 1,
+			"measure_fact": 2.7
+		},
+		{
+			"product": 4,
+			"nutrient": 3,
+			"unit_of_measure": 1,
+			"measure_fact": 12.9
+		},
+		{
+			"product": 4,
+			"nutrient": 4,
+			"unit_of_measure": 1,
+			"measure_fact": 5.8
+		},
+		{
+			"product": 4,
+			"nutrient": 5,
+			"unit_of_measure": 1,
+			"measure_fact": 7
+		},
+		{
+			"product": 4,
+			"nutrient": 7,
+			"unit_of_measure": 1,
+			"measure_fact": 1.6
+		},
+		{
+			"product": 4,
+			"nutrient": 6,
+			"unit_of_measure": 1,
+			"measure_fact": 0.1
+		},
+		{
+			"product": 5,
+			"nutrient": 1,
+			"unit_of_measure": 0,
+			"measure_fact": 136
+		},
+		{
+			"product": 5,
+			"nutrient": 11,
+			"unit_of_measure": 1,
+			"measure_fact": 0.9
+		},
+		{
+			"product": 5,
+			"nutrient": 5,
+			"unit_of_measure": 1,
+			"measure_fact": 13.6
+		},
+		{
+			"product": 5,
+			"nutrient": 4,
+			"unit_of_measure": 1,
+			"measure_fact": 0
+		},
+		{
+			"product": 5,
+			"nutrient": 6,
+			"unit_of_measure": 1,
+			"measure_fact": 0.1
+		},
+		{
+			"product": 5,
+			"nutrient": 8,
+			"unit_of_measure": 1,
+			"measure_fact": 93
+		},
+		{
+			"product": 5,
+			"nutrient": 9,
+			"unit_of_measure": 1,
+			"measure_fact": 3.0
+		},
+		{
+			"product": 5,
+			"nutrient": 7,
+			"unit_of_measure": 1,
+			"measure_fact": 2.2
+		},
+		{
+			"product": 5,
+			"nutrient": 12,
+			"unit_of_measure": 2,
+			"measure_fact": 0.6
+		},
+		{
+			"product": 5,
+			"nutrient": 3,
+			"unit_of_measure": 1,
+			"measure_fact": 13.6
+		},
+		{
+			"product": 5,
+			"nutrient": 10,
+			"unit_of_measure": 2,
+			"measure_fact": 5.3
+		},
+		{
+			"product": 6,
+			"nutrient": 1,
+			"unit_of_measure": 0,
+			"measure_fact": 259
+		},
+		{
+			"product": 6,
+			"nutrient": 2,
+			"unit_of_measure": 1,
+			"measure_fact": 8.2
+		},
+		{
+			"product": 6,
+			"nutrient": 3,
+			"unit_of_measure": 1,
+			"measure_fact": 43.1
+		},
+		{
+			"product": 6,
+			"nutrient": 4,
+			"unit_of_measure": 1,
+			"measure_fact": 6.7
+		},
+		{
+			"product": 6,
+			"nutrient": 5,
+			"unit_of_measure": 1,
+			"measure_fact": 6
+		},
+		{
+			"product": 6,
+			"nutrient": 6,
+			"unit_of_measure": 1,
+			"measure_fact": 0.03
+		},
+		{
+			"product": 6,
+			"nutrient": 7,
+			"unit_of_measure": 1,
+			"measure_fact": 3.1
+		},
+		{
+			"product": 7,
+			"nutrient": 2,
+			"unit_of_measure": 1,
+			"measure_fact": 0
+		},
+		{
+			"product": 7,
+			"nutrient": 5,
+			"unit_of_measure": 1,
+			"measure_fact": 0
+		},
+		{
+			"product": 7,
+			"nutrient": 1,
+			"unit_of_measure": 0,
+			"measure_fact": 267
+		},
+		{
+			"product": 7,
+			"nutrient": 3,
+			"unit_of_measure": 1,
+			"measure_fact": 66.8
+		},
+		{
+			"product": 7,
+			"nutrient": 4,
+			"unit_of_measure": 1,
+			"measure_fact": 66.8
+		},
+		{
+			"product": 8,
+			"nutrient": 1,
+			"unit_of_measure": 0,
+			"measure_fact": 521
+		},
+		{
+			"product": 8,
+			"nutrient": 5,
+			"unit_of_measure": 1,
+			"measure_fact": 33.1
+		},
+		{
+			"product": 8,
+			"nutrient": 7,
+			"unit_of_measure": 1,
+			"measure_fact": 18.6
+		},
+		{
+			"product": 8,
+			"nutrient": 6,
+			"unit_of_measure": 1,
+			"measure_fact": 0
+		},
+		{
+			"product": 8,
+			"nutrient": 13,
+			"unit_of_measure": 2,
+			"measure_fact": 0
+		},
+		{
+			"product": 8,
+			"nutrient": 3,
+			"unit_of_measure": 1,
+			"measure_fact": 51.4
+		},
+		{
+			"product": 8,
+			"nutrient": 4,
+			"unit_of_measure": 1,
+			"measure_fact": 43
+		},
+		{
+			"product": 8,
+			"nutrient": 14,
+			"unit_of_measure": 1,
+			"measure_fact": 42.5
+		},
+		{
+			"product": 8,
+			"nutrient": 2,
+			"unit_of_measure": 1,
+			"measure_fact": 6.4
+		},
+		{
+			"product": 8,
+			"nutrient": 12,
+			"unit_of_measure": 2,
+			"measure_fact": 38
+		},
+		{
+			"product": 9,
+			"nutrient": 1,
+			"unit_of_measure": 0,
+			"measure_fact": 496
+		},
+		{
+			"product": 9,
+			"nutrient": 2,
+			"unit_of_measure": 1,
+			"measure_fact": 9.3
+		},
+		{
+			"product": 9,
+			"nutrient": 3,
+			"unit_of_measure": 1,
+			"measure_fact": 57.8
+		},
+		{
+			"product": 9,
+			"nutrient": 4,
+			"unit_of_measure": 1,
+			"measure_fact": 49.2
+		},
+		{
+			"product": 9,
+			"nutrient": 14,
+			"unit_of_measure": 1,
+			"measure_fact": 0
+		},
+		{
+			"product": 9,
+			"nutrient": 5,
+			"unit_of_measure": 1,
+			"measure_fact": 25.5
+		},
+		{
+			"product": 9,
+			"nutrient": 7,
+			"unit_of_measure": 1,
+			"measure_fact": 10.5
+		},
+		{
+			"product": 9,
+			"nutrient": 6,
+			"unit_of_measure": 1,
+			"measure_fact": 0.08
+		},
+		{
+			"product": 9,
+			"nutrient": 13,
+			"unit_of_measure": 2,
+			"measure_fact": 0.0
+		},
+		{
+			"product": 9,
+			"nutrient": 12,
+			"unit_of_measure": 2,
+			"measure_fact": 0.212
+		},
+		{
+			"product": 10,
+			"nutrient": 1,
+			"unit_of_measure": 0,
+			"measure_fact": 535
+		},
+		{
+			"product": 10,
+			"nutrient": 2,
+			"unit_of_measure": 1,
+			"measure_fact": 10.3
+		},
+		{
+			"product": 10,
+			"nutrient": 3,
+			"unit_of_measure": 1,
+			"measure_fact": 56.0
+		},
+		{
+			"product": 10,
+			"nutrient": 4,
+			"unit_of_measure": 1,
+			"measure_fact": 40.8
+		},
+		{
+			"product": 10,
+			"nutrient": 5,
+			"unit_of_measure": 1,
+			"measure_fact": 30.0
+		},
+		{
+			"product": 11,
+			"nutrient": 1,
+			"unit_of_measure": 0,
+			"measure_fact": 392
+		},
+		{
+			"product": 11,
+			"nutrient": 15,
+			"unit_of_measure": 0,
+			"measure_fact": 54
+		},
+		{
+			"product": 11,
+			"nutrient": 5,
+			"unit_of_measure": 1,
+			"measure_fact": 6.0
+		},
+		{
+			"product": 11,
+			"nutrient": 7,
+			"unit_of_measure": 1,
+			"measure_fact": 0.8
+		},
+		{
+			"product": 11,
+			"nutrient": 8,
+			"unit_of_measure": 1,
+			"measure_fact": 2.8
+		},
+		{
+			"product": 11,
+			"nutrient": 11,
+			"unit_of_measure": 1,
+			"measure_fact": 1.6
+		},
+		{
+			"product": 11,
+			"nutrient": 6,
+			"unit_of_measure": 1,
+			"measure_fact": 0
+		},
+		{
+			"product": 11,
+			"nutrient": 13,
+			"unit_of_measure": 2,
+			"measure_fact": 0
+		},
+		{
+			"product": 11,
+			"nutrient": 3,
+			"unit_of_measure": 1,
+			"measure_fact": 79.0
+		},
+		{
+			"product": 11,
+			"nutrient": 4,
+			"unit_of_measure": 1,
+			"measure_fact": 23.59
+		},
+		{
+			"product": 11,
+			"nutrient": 14,
+			"unit_of_measure": 1,
+			"measure_fact": 17.0
+		},
+		{
+			"product": 11,
+			"nutrient": 9,
+			"unit_of_measure": 1,
+			"measure_fact": 5.09
+		},
+		{
+			"product": 11,
+			"nutrient": 2,
+			"unit_of_measure": 1,
+			"measure_fact": 8.0
+		},
+		{
+			"product": 11,
+			"nutrient": 12,
+			"unit_of_measure": 2,
+			"measure_fact": 150
+		},
+		{
+			"product": 11,
+			"nutrient": 16,
+			"unit_of_measure": 2,
+			"measure_fact": 25.0
+		},
+		{
+			"product": 11,
+			"nutrient": 17,
+			"unit_of_measure": 2,
+			"measure_fact": 0.8
+		},
+		{
+			"product": 11,
+			"nutrient": 18,
+			"unit_of_measure": 2,
+			"measure_fact": 0.9
+		},
+		{
+			"product": 11,
+			"nutrient": 19,
+			"unit_of_measure": 2,
+			"measure_fact": 10.0
+		},
+		{
+			"product": 11,
+			"nutrient": 20,
+			"unit_of_measure": 2,
+			"measure_fact": 1.3
+		},
+		{
+			"product": 11,
+			"nutrient": 21,
+			"unit_of_measure": 3,
+			"measure_fact": 0.2
+		},
+		{
+			"product": 11,
+			"nutrient": 22,
+			"unit_of_measure": 3,
+			"measure_fact": 63.0
+		},
+		{
+			"product": 11,
+			"nutrient": 10,
+			"unit_of_measure": 2,
+			"measure_fact": 14.0
+		},
+		{
+			"product": 12,
+			"nutrient": 1,
+			"unit_of_measure": 0,
+			"measure_fact": 205
+		},
+		{
+			"product": 12,
+			"nutrient": 5,
+			"unit_of_measure": 1,
+			"measure_fact": 6.1
+		},
+		{
+			"product": 12,
+			"nutrient": 7,
+			"unit_of_measure": 1,
+			"measure_fact": 1.9
+		},
+		{
+			"product": 12,
+			"nutrient": 8,
+			"unit_of_measure": 1,
+			"measure_fact": 1.9
+		},
+		{
+			"product": 12,
+			"nutrient": 11,
+			"unit_of_measure": 1,
+			"measure_fact": 1.9
+		},
+		{
+			"product": 12,
+			"nutrient": 6,
+			"unit_of_measure": 1,
+			"measure_fact": 0
+		},
+		{
+			"product": 12,
+			"nutrient": 13,
+			"unit_of_measure": 2,
+			"measure_fact": 0
+		},
+		{
+			"product": 12,
+			"nutrient": 3,
+			"unit_of_measure": 1,
+			"measure_fact": 31.7
+		},
+		{
+			"product": 12,
+			"nutrient": 4,
+			"unit_of_measure": 1,
+			"measure_fact": 3.2
+		},
+		{
+			"product": 12,
+			"nutrient": 9,
+			"unit_of_measure": 1,
+			"measure_fact": 4.3
+		},
+		{
+			"product": 12,
+			"nutrient": 2,
+			"unit_of_measure": 1,
+			"measure_fact": 6
+		},
+		{
+			"product": 12,
+			"nutrient": 23,
+			"unit_of_measure": 1,
+			"measure_fact": 0.5
+		},
+		{
+			"product": 12,
+			"nutrient": 12,
+			"unit_of_measure": 2,
+			"measure_fact": 4.3
+		},
+		{
+			"product": 13,
+			"nutrient": 1,
+			"unit_of_measure": 0,
+			"measure_fact": 114
+		},
+		{
+			"product": 13,
+			"nutrient": 15,
+			"unit_of_measure": 0,
+			"measure_fact": 3
+		},
+		{
+			"product": 13,
+			"nutrient": 5,
+			"unit_of_measure": 1,
+			"measure_fact": 0.3
+		},
+		{
+			"product": 13,
+			"nutrient": 7,
+			"unit_of_measure": 1,
+			"measure_fact": 0.2
+		},
+		{
+			"product": 13,
+			"nutrient": 8,
+			"unit_of_measure": 1,
+			"measure_fact": 0
+		},
+		{
+			"product": 13,
+			"nutrient": 11,
+			"unit_of_measure": 1,
+			"measure_fact": 0
+		},
+		{
+			"product": 13,
+			"nutrient": 6,
+			"unit_of_measure": 1,
+			"measure_fact": 0
+		},
+		{
+			"product": 13,
+			"nutrient": 13,
+			"unit_of_measure": 2,
+			"measure_fact": 0
+		},
+		{
+			"product": 13,
+			"nutrient": 3,
+			"unit_of_measure": 1,
+			"measure_fact": 26.1
+		},
+		{
+			"product": 13,
+			"nutrient": 4,
+			"unit_of_measure": 1,
+			"measure_fact": 2.5
+		},
+		{
+			"product": 13,
+			"nutrient": 9,
+			"unit_of_measure": 1,
+			"measure_fact": 0.8
+		},
+		{
+			"product": 13,
+			"nutrient": 2,
+			"unit_of_measure": 1,
+			"measure_fact": 2.0
+		},
+		{
+			"product": 13,
+			"nutrient": 12,
+			"unit_of_measure": 2,
+			"measure_fact": 0.15
+		},
+		{
+			"product": 13,
+			"nutrient": 24,
+			"unit_of_measure": 2,
+			"measure_fact": 30.0
+		},
+		{
+			"product": 13,
+			"nutrient": 16,
+			"unit_of_measure": 2,
+			"measure_fact": 9.9
+		},
+		{
+			"product": 13,
+			"nutrient": 17,
+			"unit_of_measure": 2,
+			"measure_fact": 0.3
+		},
+		{
+			"product": 13,
+			"nutrient": 18,
+			"unit_of_measure": 2,
+			"measure_fact": 0.4
+		},
+		{
+			"product": 13,
+			"nutrient": 19,
+			"unit_of_measure": 2,
+			"measure_fact": 4.0
+		},
+		{
+			"product": 13,
+			"nutrient": 20,
+			"unit_of_measure": 2,
+			"measure_fact": 0.5
+		},
+		{
+			"product": 13,
+			"nutrient": 21,
+			"unit_of_measure": 3,
+			"measure_fact": 0.1
+		},
+		{
+			"product": 13,
+			"nutrient": 22,
+			"unit_of_measure": 3,
+			"measure_fact": 25.2
+		},
+		{
+			"product": 13,
+			"nutrient": 10,
+			"unit_of_measure": 2,
+			"measure_fact": 5.3
+		},
+		{
+			"product": 14,
+			"nutrient": 1,
+			"unit_of_measure": 0,
+			"measure_fact": 116
+		},
+		{
+			"product": 14,
+			"nutrient": 15,
+			"unit_of_measure": 0,
+			"measure_fact": 8
+		},
+		{
+			"product": 14,
+			"nutrient": 5,
+			"unit_of_measure": 1,
+			"measure_fact": 0.9
+		},
+		{
+			"product": 14,
+			"nutrient": 7,
+			"unit_of_measure": 1,
+			"measure_fact": 0.4
+		},
+		{
+			"product": 14,
+			"nutrient": 8,
+			"unit_of_measure": 1,
+			"measure_fact": 0.2
+		},
+		{
+			"product": 14,
+			"nutrient": 11,
+			"unit_of_measure": 1,
+			"measure_fact": 0.1
+		},
+		{
+			"product": 14,
+			"nutrient": 6,
+			"unit_of_measure": 1,
+			"measure_fact": 0
+		},
+		{
+			"product": 14,
+			"nutrient": 13,
+			"unit_of_measure": 2,
+			"measure_fact": 0
+		},
+		{
+			"product": 14,
+			"nutrient": 3,
+			"unit_of_measure": 1,
+			"measure_fact": 25.1
+		},
+		{
+			"product": 14,
+			"nutrient": 4,
+			"unit_of_measure": 1,
+			"measure_fact": 9.0
+		},
+		{
+			"product": 14,
+			"nutrient": 9,
+			"unit_of_measure": 1,
+			"measure_fact": 1.5
+		},
+		{
+			"product": 14,
+			"nutrient": 2,
+			"unit_of_measure": 1,
+			"measure_fact": 2.7
+		},
+		{
+			"product": 14,
+			"nutrient": 12,
+			"unit_of_measure": 2,
+			"measure_fact": 0.10
+		},
+		{
+			"product": 14,
+			"nutrient": 16,
+			"unit_of_measure": 2,
+			"measure_fact": 3.0
+		},
+		{
+			"product": 14,
+			"nutrient": 17,
+			"unit_of_measure": 2,
+			"measure_fact": 0.2
+		},
+		{
+			"product": 14,
+			"nutrient": 18,
+			"unit_of_measure": 2,
+			"measure_fact": 0.2
+		},
+		{
+			"product": 14,
+			"nutrient": 19,
+			"unit_of_measure": 2,
+			"measure_fact": 1.5
+		},
+		{
+			"product": 14,
+			"nutrient": 20,
+			"unit_of_measure": 2,
+			"measure_fact": 0.4
+		},
+		{
+			"product": 14,
+			"nutrient": 21,
+			"unit_of_measure": 3,
+			"measure_fact": 0.1
+		},
+		{
+			"product": 14,
+			"nutrient": 22,
+			"unit_of_measure": 3,
+			"measure_fact": 12.0
+		},
+		{
+			"product": 14,
+			"nutrient": 10,
+			"unit_of_measure": 2,
+			"measure_fact": 1.5
+		},
+		{
+			"product": 14,
+			"nutrient": 25,
+			"unit_of_measure": 2,
+			"measure_fact": 159.9
+		},
+		{
+			"product": 14,
+			"nutrient": 26,
+			"unit_of_measure": 2,
+			"measure_fact": 0.6
+		},
+		{
+			"product": 15,
+			"nutrient": 1,
+			"unit_of_measure": 0,
+			"measure_fact": 357
+		},
+		{
+			"product": 15,
+			"nutrient": 2,
+			"unit_of_measure": 1,
+			"measure_fact": 9.9
+		},
+		{
+			"product": 15,
+			"nutrient": 3,
+			"unit_of_measure": 1,
+			"measure_fact": 72.2
+		},
+		{
+			"product": 15,
+			"nutrient": 4,
+			"unit_of_measure": 1,
+			"measure_fact": 4.7
+		},
+		{
+			"product": 15,
+			"nutrient": 14,
+			"unit_of_measure": 1,
+			"measure_fact": 3.4
+		},
+		{
+			"product": 15,
+			"nutrient": 9,
+			"unit_of_measure": 1,
+			"measure_fact": 12.5
+		},
+		{
+			"product": 15,
+			"nutrient": 27,
+			"unit_of_measure": 1,
+			"measure_fact": 4.2
+		},
+		{
+			"product": 15,
+			"nutrient": 28,
+			"unit_of_measure": 1,
+			"measure_fact": 8.3
+		},
+		{
+			"product": 15,
+			"nutrient": 5,
+			"unit_of_measure": 1,
+			"measure_fact": 6
+		},
+		{
+			"product": 15,
+			"nutrient": 7,
+			"unit_of_measure": 1,
+			"measure_fact": 1.8
+		},
+		{
+			"product": 15,
+			"nutrient": 6,
+			"unit_of_measure": 1,
+			"measure_fact": 0.1
+		},
+		{
+			"product": 15,
+			"nutrient": 13,
+			"unit_of_measure": 2,
+			"measure_fact": 0
+		},
+		{
+			"product": 15,
+			"nutrient": 12,
+			"unit_of_measure": 2,
+			"measure_fact": 1969
+		},
+		{
+			"product": 16,
+			"nutrient": 1,
+			"unit_of_measure": 0,
+			"measure_fact": 44
+		},
+		{
+			"product": 16,
+			"nutrient": 3,
+			"unit_of_measure": 1,
+			"measure_fact": 10.9
+		},
+		{
+			"product": 16,
+			"nutrient": 4,
+			"unit_of_measure": 1,
+			"measure_fact": 10.6
+		},
+		{
+			"product": 16,
+			"nutrient": 14,
+			"unit_of_measure": 1,
+			"measure_fact": 10.6
+		},
+		{
+			"product": 16,
+			"nutrient": 5,
+			"unit_of_measure": 1,
+			"measure_fact": 0
+		},
+		{
+			"product": 16,
+			"nutrient": 2,
+			"unit_of_measure": 1,
+			"measure_fact": 0
+		},
+		{
+			"product": 16,
+			"nutrient": 12,
+			"unit_of_measure": 2,
+			"measure_fact": 8.5
+		},
+		{
+			"product": 17,
+			"nutrient": 1,
+			"unit_of_measure": 0,
+			"measure_fact": 49.2
+		},
+		{
+			"product": 17,
+			"nutrient": 3,
+			"unit_of_measure": 1,
+			"measure_fact": 11.8
+		},
+		{
+			"product": 17,
+			"nutrient": 14,
+			"unit_of_measure": 1,
+			"measure_fact": 9.4
+		},
+		{
+			"product": 17,
+			"nutrient": 2,
+			"unit_of_measure": 1,
+			"measure_fact": 0.5
+		},
+		{
+			"product": 17,
+			"nutrient": 5,
+			"unit_of_measure": 1,
+			"measure_fact": 0.0
+		},
+		{
+			"product": 17,
+			"nutrient": 1,
+			"unit_of_measure": 0,
+			"measure_fact": 49.2
+		},
+		{
+			"product": 17,
+			"nutrient": 3,
+			"unit_of_measure": 1,
+			"measure_fact": 11.8
+		},
+		{
+			"product": 17,
+			"nutrient": 14,
+			"unit_of_measure": 1,
+			"measure_fact": 9.4
+		},
+		{
+			"product": 17,
+			"nutrient": 2,
+			"unit_of_measure": 1,
+			"measure_fact": 0.5
+		},
+		{
+			"product": 17,
+			"nutrient": 5,
+			"unit_of_measure": 1,
+			"measure_fact": 0.0
+		},
+		{
+			"product": 18,
+			"nutrient": 1,
+			"unit_of_measure": 0,
+			"measure_fact": 53
+		},
+		{
+			"product": 18,
+			"nutrient": 2,
+			"unit_of_measure": 1,
+			"measure_fact": 0
+		},
+		{
+			"product": 18,
+			"nutrient": 3,
+			"unit_of_measure": 1,
+			"measure_fact": 14
+		},
+		{
+			"product": 18,
+			"nutrient": 4,
+			"unit_of_measure": 1,
+			"measure_fact": 12.5
+		},
+		{
+			"product": 18,
+			"nutrient": 14,
+			"unit_of_measure": 1,
+			"measure_fact": 0
+		},
+		{
+			"product": 18,
+			"nutrient": 9,
+			"unit_of_measure": 1,
+			"measure_fact": 1.5
+		},
+		{
+			"product": 18,
+			"nutrient": 5,
+			"unit_of_measure": 1,
+			"measure_fact": 0
+		},
+		{
+			"product": 18,
+			"nutrient": 12,
+			"unit_of_measure": 2,
+			"measure_fact": 3.5
+		},
+		{
+			"product": 18,
+			"nutrient": 29,
+			"unit_of_measure": 2,
+			"measure_fact": 30
+		},
+		{
+			"product": 18,
+			"nutrient": 25,
+			"unit_of_measure": 2,
+			"measure_fact": 1
+		},
+		{
+			"product": 19,
+			"nutrient": 1,
+			"unit_of_measure": 0,
+			"measure_fact": 24
+		},
+		{
+			"product": 19,
+			"nutrient": 2,
+			"unit_of_measure": 1,
+			"measure_fact": 0
+		},
+		{
+			"product": 19,
+			"nutrient": 3,
+			"unit_of_measure": 1,
+			"measure_fact": 6
+		},
+		{
+			"product": 19,
+			"nutrient": 4,
+			"unit_of_measure": 1,
+			"measure_fact": 6
+		},
+		{
+			"product": 19,
+			"nutrient": 14,
+			"unit_of_measure": 1,
+			"measure_fact": 1
+		},
+		{
+			"product": 19,
+			"nutrient": 5,
+			"unit_of_measure": 1,
+			"measure_fact": 0
+		},
+		{
+			"product": 19,
+			"nutrient": 13,
+			"unit_of_measure": 2,
+			"measure_fact": 0
+		},
+		{
+			"product": 19,
+			"nutrient": 12,
+			"unit_of_measure": 2,
+			"measure_fact": 8.5
+		},
+		{
+			"product": 20,
+			"nutrient": 1,
+			"unit_of_measure": 0,
+			"measure_fact": 87
+		},
+		{
+			"product": 20,
+			"nutrient": 5,
+			"unit_of_measure": 1,
+			"measure_fact": 2
+		},
+		{
+			"product": 20,
+			"nutrient": 7,
+			"unit_of_measure": 1,
+			"measure_fact": 1.2
+		},
+		{
+			"product": 20,
+			"nutrient": 6,
+			"unit_of_measure": 1,
+			"measure_fact": 0
+		},
+		{
+			"product": 20,
+			"nutrient": 13,
+			"unit_of_measure": 2,
+			"measure_fact": 6
+		},
+		{
+			"product": 20,
+			"nutrient": 3,
+			"unit_of_measure": 1,
+			"measure_fact": 14
+		},
+		{
+			"product": 20,
+			"nutrient": 4,
+			"unit_of_measure": 1,
+			"measure_fact": 14
+		},
+		{
+			"product": 20,
+			"nutrient": 14,
+			"unit_of_measure": 1,
+			"measure_fact": 11.3
+		},
+		{
+			"product": 20,
+			"nutrient": 2,
+			"unit_of_measure": 1,
+			"measure_fact": 2
+		},
+		{
+			"product": 20,
+			"nutrient": 12,
+			"unit_of_measure": 2,
+			"measure_fact": 26
+		},
+		{
+			"product": 20,
+			"nutrient": 25,
+			"unit_of_measure": 2,
+			"measure_fact": 80
+		}
+	],
+	"measure_units": [
+		{
+			"pk": 0,
+			"unit_of_measure": "Kcal",
+			"type": "Energy"
+		},
+		{
+			"pk": 1,
+			"unit_of_measure": "g",
+			"type": "Weight"
+		},
+		{
+			"pk": 2,
+			"unit_of_measure": "mg",
+			"type": "Weight"
+		},
+		{
+			"pk": 3,
+			"unit_of_measure": "\u00b5g",
+			"type": "Weight"
+		},
+		{
+			"pk": 4,
+			"unit_of_measure": "ml",
+			"type": "Volume"
+		}
+	],
+	"categories": [
+		{
+			"name": "Instant Food",
+			"category_type":"root",
+			"pk": 1,
+			"products": [
+				1,
+				4
+			]
+		},
+		{
+			"name": "Rice Products",
+			"category_type":"root",
+			"pk": 2,
+			"products": [
+				2
+			]
+		},
+		{
+			"name": "Snacks",
+			"pk": 3,
+			"category_type":"root",
+			"products": [
+				3,
+				5,
+				7
+			]
+		},
+		{
+			"name": "Breakfast & Cereal",
+			"pk": 4,
+			"category_type":"root",
+			"products": [
+				6,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"name": "Chocolates",
+			"pk": 5,
+			"category_type":"root",
+			"products": [
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"name": "Beverages",
+			"pk": 6,
+			"category_type":"root",
+			"products": [
+				16,
+				17,
+				18,
+				19,
+				20
+			]
+		}
+	],
+	"products": [
+		{
+			"pk": 1,
+			"name": "Chicken Darbari",
+			"mrp": 195,
+			"barcode": 8901725114237,
+			"fssai_lic_no": 10012031000312,
+			"unit_of_measure": 1,
+			"measure_fact": 285,
+			"brand": 1,
+			"best_before": "3 Months",
+			"origin_country": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 2,
+			"name": "Aachi Chettinadu Basmati Biryani Kit",
+			"mrp": 125,
+			"barcode": 8904209314178,
+			"fssai_lic_no": 12415023000343,
+			"unit_of_measure": 1,
+			"measure_fact": 365,
+			"brand": 2,
+			"best_before": "1 Year",
+			"origin_country": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 3,
+			"name": "Del Monte Sliced Black Olives",
+			"mrp": 270,
+			"barcode": 8901246003614,
+			"fssai_lic_no": 10012064000180,
+			"unit_of_measure": 1,
+			"measure_fact": 450,
+			"brand": 3,
+			"best_before": "36 months",
+			"origin_country": 52,
+			"created_by": 2
+		},
+		{
+			"pk": 4,
+			"name": "Chefboss Hyderabadi Biryani Masala Paste",
+			"mrp": 110,
+			"barcode": 8904252100216,
+			"fssai_lic_no": 10012063000053,
+			"unit_of_measure": 1,
+			"measure_fact": 150,
+			"brand": 4,
+			"best_before": "6 months",
+			"origin_country": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 5,
+			"name": "Del Monte Pitted Black Olives",
+			"mrp": 270,
+			"barcode": 8901246003638,
+			"fssai_lic_no": 10012064000180,
+			"unit_of_measure": 1,
+			"measure_fact": 450,
+			"brand": 3,
+			"best_before": "36 months",
+			"origin_country": 52,
+			"created_by": 2
+		},
+		{
+			"pk": 6,
+			"name": "Aashirvaad Instant Mini Idli Sambhar",
+			"mrp": 75,
+			"barcode": 8901725114060,
+			"fssai_lic_no": 10012031000312,
+			"unit_of_measure": 1,
+			"measure_fact": 75,
+			"brand": 5,
+			"best_before": "1 year",
+			"origin_country": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 7,
+			"name": "Hersheys Strawberry Syrup",
+			"mrp": 95,
+			"barcode": 8901071731126,
+			"fssai_lic_no": 1062026000226,
+			"unit_of_measure": 4,
+			"measure_fact": 200,
+			"brand": 6,
+			"best_before": "13months",
+			"origin_country": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 8,
+			"name": "Amul Dark Chocolate- 55%",
+			"mrp": 110,
+			"barcode": 8901262070676,
+			"fssai_lic_no": 1012021000071,
+			"unit_of_measure": 1,
+			"measure_fact": 150,
+			"brand": 7,
+			"best_before": "12 months",
+			"origin_country": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 9,
+			"name": "Snickers Peanut Filled Chocolate Bar",
+			"mrp": 45,
+			"barcode": 8906002482450,
+			"fssai_lic_no": 2512098902433,
+			"unit_of_measure": 1,
+			"measure_fact": 45,
+			"brand": 8,
+			"best_before": "12 months",
+			"origin_country": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 10,
+			"name": "Hersheys Kisses - Almonds Chocolate",
+			"mrp": 140,
+			"barcode": 8901071701976,
+			"fssai_lic_no": 10012022000243,
+			"unit_of_measure": 1,
+			"measure_fact": 100,
+			"brand": 6,
+			"best_before": "12 months",
+			"origin_country": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 11,
+			"name": "Kelloggs Muesli - Fruit & Nut,",
+			"mrp": 155,
+			"barcode": 8901499010483,
+			"fssai_lic_no": 8901499003188,
+			"unit_of_measure": 1,
+			"measure_fact": 240,
+			"brand": 9,
+			"best_before": "9 months",
+			"origin_country": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 12,
+			"name": "Yoga Bar Super Muesli - No Added Sugar",
+			"mrp": 325,
+			"barcode": 8908005144618,
+			"fssai_lic_no": 11215332000780,
+			"unit_of_measure": 1,
+			"measure_fact": 400,
+			"brand": 10,
+			"best_before": "6 months",
+			"origin_country": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 13,
+			"name": "Kelloggs Corn Flakes - Original",
+			"mrp": 340,
+			"barcode": 8901499008893,
+			"fssai_lic_no": 10013022002031,
+			"unit_of_measure": 1,
+			"measure_fact": 875,
+			"brand": 9,
+			"best_before": "9 months",
+			"origin_country": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 14,
+			"name": "Kelloggs Chocos",
+			"mrp": 20,
+			"barcode": 8901499009654,
+			"fssai_lic_no": 10013022002031,
+			"unit_of_measure": 1,
+			"measure_fact": 52,
+			"brand": 9,
+			"best_before": "9 months",
+			"origin_country": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 15,
+			"name": "Saffola Masala Oats",
+			"mrp": 207,
+			"barcode": 8901088129831,
+			"fssai_lic_no": 18901088067638,
+			"unit_of_measure": 1,
+			"measure_fact": 500,
+			"brand": 11,
+			"best_before": "9 months",
+			"origin_country": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 16,
+			"name": "Coca Cola 330 Ml",
+			"mrp": 20,
+			"barcode": 5449000000996,
+			"fssai_lic_no": 1890176402273,
+			"unit_of_measure": 4,
+			"measure_fact": 200,
+			"brand": 12,
+			"best_before": "12 months",
+			"origin_country": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 17,
+			"name": "Paper Boat Chilli Guava Juice",
+			"mrp": 35,
+			"barcode": 8908001705806,
+			"fssai_lic_no": 10012064000617,
+			"unit_of_measure": 4,
+			"measure_fact": 200,
+			"brand": 13,
+			"best_before": "3 months",
+			"origin_country": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 18,
+			"name": "Real Activ Fiber + Multi Fruit",
+			"mrp": 140,
+			"barcode": 8901888005427,
+			"fssai_lic_no": 10012011000618,
+			"unit_of_measure": 4,
+			"measure_fact": 1000,
+			"brand": 14,
+			"best_before": "3 months",
+			"origin_country": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 19,
+			"name": "Paper Boat Coconut Water",
+			"mrp": 50,
+			"barcode": 8906080601248,
+			"fssai_lic_no": 1001201400017,
+			"unit_of_measure": 4,
+			"measure_fact": 200,
+			"brand": 13,
+			"best_before": "3 months",
+			"origin_country": 91,
+			"created_by": 2
+		},
+		{
+			"pk": 20,
+			"name": "Amul Lassi",
+			"mrp": 35,
+			"barcode": 8901262200189,
+			"fssai_lic_no": 10012026000226,
+			"unit_of_measure": 4,
+			"measure_fact": 200,
+			"brand": 6,
+			"best_before": "3 months",
+			"origin_country": 91,
+			"created_by": 2
+		}
+	],
+	"countries": [
+		{
+			"code": 91,
+			"name": "India"
+		},
+		{
+			"code": 52,
+			"name": "Spain"
+		}
+	]
+}
